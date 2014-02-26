@@ -7,7 +7,7 @@ public class HelloWorldProgram {
 	 * @param args elsõ paraméter
 	 */
 	public static void main(String[] args) {
-		System.out.println("Hello World");
+		System.out.println("Hello Kitty");
 	}
 
 }
